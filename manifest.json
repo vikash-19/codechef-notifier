@@ -1,5 +1,5 @@
 {
-    "name": "notify-verdict",
+    "name": "codechef-notifier",
     "description": "Extension for codechef notifictions",
     "version": "1.0",
     "manifest_version": 2   ,
@@ -26,3 +26,4 @@
         "default_icon": "logo.jpg"
     }
   }
+
